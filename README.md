@@ -47,7 +47,7 @@ ORDER BY Avg_Satisfaction DESC;
 
 ## 📸 **SQL Queries**
 
-![Check_SQL Query File]()
+![Check_SQL Query File](https://github.com/palakpatel315/Day_10_CASE-Statements-CASE-WHEN-conditional-logic-derived-columns/tree/main/Day_10_SQL_Queries)
 
 ---
 Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
